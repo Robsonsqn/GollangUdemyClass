@@ -1,11 +1,11 @@
 # GollangUdemyClass
 
-## Folders
+## -> Folders
 
 ### Hello World
 Contains basic Hello World in Gollang Language
 
 
-## Libraries
+## -> Libraries
 
 ##### WIP
